@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1730329076 source:c:\users\ejec_ufsc\documents\cursos_jose\trabalho1\trabalho1\src\vehicle.cpp
+
+1730953713 c:\users\ejec_ufsc\documents\cursos_jose\trabalho1\trabalho1\include\vehicle.h
+	<iostream>
+	<sstream>
+
+1730761365 source:c:\users\ejec_ufsc\documents\cursos_jose\trabalho1\trabalho1\src\travel.cpp
+	"Travel.h"
+
+1730761102 c:\users\ejec_ufsc\documents\cursos_jose\trabalho1\trabalho1\include\travel.h
+
+1731182831 source:c:\users\ejec_ufsc\documents\cursos_jose\trabalho1\trabalho1\main.cpp
+	<iostream>
+	"Vehicle.h"
+	"Bus.h"
+	"Car.h"
+	"Heavy_Truck.h"
+	"Light_Truck.h"
+	<vector>
+	<string>
+
+1730938387 c:\users\ejec_ufsc\documents\cursos_jose\trabalho1\trabalho1\include\bus.h
+	"Vehicle.h"
+
+1730761300 c:\users\ejec_ufsc\documents\cursos_jose\trabalho1\trabalho1\include\car.h
+	"Vehicle.h"
+
+1730760319 c:\users\ejec_ufsc\documents\cursos_jose\trabalho1\trabalho1\include\heavy_truck.h
+	"Vehicle.h"
+
+1730761318 c:\users\ejec_ufsc\documents\cursos_jose\trabalho1\trabalho1\include\light_truck.h
+	"Vehicle.h"
+
+1730761284 source:c:\users\ejec_ufsc\documents\cursos_jose\trabalho1\trabalho1\src\bus.cpp
+	"Bus.h"
+
+1730761380 source:c:\users\ejec_ufsc\documents\cursos_jose\trabalho1\trabalho1\src\light_truck.cpp
+	"Light_Truck.h"
+
+1730761396 source:c:\users\ejec_ufsc\documents\cursos_jose\trabalho1\trabalho1\src\car.cpp
+	"Car.h"
+
+1730761410 source:c:\users\ejec_ufsc\documents\cursos_jose\trabalho1\trabalho1\src\heavy_truck.cpp
+	"Heavy_Truck.h"
+
+1730761284 source:c:\users\ejec_ufsc\documents\trabalho1\trabalho1\src\bus.cpp
+	"Bus.h"
+
+1731552835 c:\users\ejec_ufsc\documents\trabalho1\trabalho1\include\bus.h
+	"Vehicle.h"
+
+1731552755 c:\users\ejec_ufsc\documents\trabalho1\trabalho1\include\vehicle.h
+	<string>
+
+1730761396 source:c:\users\ejec_ufsc\documents\trabalho1\trabalho1\src\car.cpp
+	"Car.h"
+
+1731552835 c:\users\ejec_ufsc\documents\trabalho1\trabalho1\include\car.h
+	"Vehicle.h"
+
+1730761410 source:c:\users\ejec_ufsc\documents\trabalho1\trabalho1\src\heavy_truck.cpp
+	"Heavy_Truck.h"
+
+1731552835 c:\users\ejec_ufsc\documents\trabalho1\trabalho1\include\heavy_truck.h
+	"Vehicle.h"
+
+1730761380 source:c:\users\ejec_ufsc\documents\trabalho1\trabalho1\src\light_truck.cpp
+	"Light_Truck.h"
+
+1731552835 c:\users\ejec_ufsc\documents\trabalho1\trabalho1\include\light_truck.h
+	"Vehicle.h"
+
+1730761365 source:c:\users\ejec_ufsc\documents\trabalho1\trabalho1\src\travel.cpp
+	"Travel.h"
+
+1730761102 c:\users\ejec_ufsc\documents\trabalho1\trabalho1\include\travel.h
+
+1730329076 source:c:\users\ejec_ufsc\documents\trabalho1\trabalho1\src\vehicle.cpp
+
